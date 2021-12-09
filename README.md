@@ -1,8 +1,8 @@
 # Container Laravel - Docker
 
-**server image: **nginx:stable-alpine
+**server image:** nginx:stable-alpine
 
-**mysql image**: mysql:latest 
+**mysql image:** mysql:latest 
 
 php 7.4-fpm-alpine
 
